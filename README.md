@@ -1,5 +1,5 @@
 ![logo](https://github.com/chetana-vasave3/Chetana-Vasave/blob/main/github-header-image%20(6).png)
-<h1 align="center">Hi 👋, I'm Chetana Vasave</h1>
+<h1 align="center">Hi 👋, I'm Sahil Wagh</h1>
 <h3 align="center">Passionate fresher data scientist with expertise in Python, machine learning, and statistical analysis. Committed to leveraging data to drive impactful solutions. Strong problem-solving skills and effective communication abilities. Eager to contribute to the field of data science and make a difference.</h3>
 
 <img align="right" alt="Data Science" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
