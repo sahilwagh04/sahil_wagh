@@ -1,8 +1,8 @@
-
+![logo](https://github.com/sahilwagh04/sahil_wagh/blob/main/canva%20banner.png)
 <h1 align="center">Hi 👋, I'm Sahil Wagh</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-<img align="right" alt="coding"width="400" src="![image](https://github.com/sahilwagh04/sahil_wagh/assets/42489961/0ce35ee0-dd00-4f3c-a8f0-bde247cfafec)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilwagh04&label=Profile%20views&color=0e75b6&style=flat" alt="sahilwagh04" /> </p>
 
