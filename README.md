@@ -22,9 +22,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://brandlogos.net/wp-content/uploads/2022/01/c-brandlogo.net_-512x512.png"alt="c++" width="40" height="40"/ >
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="pandas.png" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://tse4.mm.bing.net/th?id=OIP.EDJ9xoErBbZqK2tExVoJfAAAAA&pid=Api&P=0&h=220" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilwagh04&show_icons=true&locale=en" alt="sahilwagh04" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilwagh04&" alt="sahilwagh04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilwagh04&show_icons=true&locale=en" alt="sahilwagh04" /></p>
 
