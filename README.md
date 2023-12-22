@@ -30,10 +30,3 @@
 
 </body>
 </html>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilwagh04&" alt="sahilwagh04" /></p><br>
-<img src="https://drive.google.com/file/d/17DyaLf_fdNGitV_O97VSqQJhrsljK9IW/view?usp=drive_link">
-
-
-</body>
-</html>
