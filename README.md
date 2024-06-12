@@ -3,13 +3,13 @@
 <center><img align="center" src="WhatsApp Image 2023-12-21 at 1.38.06 PM.jpeg" alt="sahil wagh" height="400px" width="1000px" /></center> 
 
 <h1 align="center">Hi 👋, I'm Sahil Wagh</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A Data Scientist Trainee</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilwagh04&label=Profile%20views&color=0e75b6&style=flat" alt="sahilwagh04" /> </p>
 
-- 🌱 I’m currently learning <b>Python modules, SQL, Power BI</b><br>
+- 🌱 I’m currently learning <b>Data Science and Analysis, Python modules, SQL, Power BI, Machine Learning, Deep Learning, Natural Language Process</b><br>
 
 - 📫 How to reach me <b>sahilwagh98@gmail.com</b><br>
 
