@@ -1,6 +1,6 @@
 <html>
     <body>
-<center><img align="center" src="WhatsApp Image 2023-12-21 at 1.38.06 PM.jpeg" alt="sahil wagh" height="400px" width="1000px" /></center> 
+<center><img align="center" src="‪G:\canva banner.png" alt="sahil wagh" height="400px" width="1000px" /></center> 
 
 <h1 align="center">Hi 👋, I'm Sahil Wagh</h1>
 <h3 align="center">A Data Scientist Trainee</h3>
